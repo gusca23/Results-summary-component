@@ -6,8 +6,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Screenshot
 
-![](./design/desktop-screenshot.jpg)
-![](./design/mobile-screenshot.jpg)
+![](./design/desktop-screenshot.png)
+![](./design/mobile-screenshot.png)
 
 ## My process
 
@@ -19,4 +19,4 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - Mobile-first workflow
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gusca23)
+- Frontend Mentor - [@gusca23](https://www.frontendmentor.io/profile/gusca23)
